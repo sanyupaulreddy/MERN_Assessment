@@ -1,0 +1,9 @@
+.hi {
+    background-color: coral;
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    height: 100vh; /* Full height of the viewport */
+    bottom: 10px; 
+    gap: 150px;/* Optional, adjust as needed */
+}
